@@ -204,3 +204,4 @@ st.markdown("""
 - **Flashing red**: FP Eclipsing Companion (`ec`)  
 - FP halos **appear only when planet is in transit** to simulate observation  
 """)
+
